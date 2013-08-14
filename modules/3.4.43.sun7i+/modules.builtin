@@ -243,6 +243,7 @@ kernel/drivers/mmc/host/ushc.ko
 kernel/drivers/mmc/host/sunxi-mci.ko
 kernel/drivers/mmc/mmc-pm/mmc_power.ko
 kernel/drivers/net/mii.ko
+kernel/drivers/net/ethernet/allwinner/sunxi_emac.ko
 kernel/drivers/net/phy/libphy.ko
 kernel/drivers/power/power_supply.ko
 kernel/drivers/rtc/rtc-sun4i.ko
