@@ -899,6 +899,7 @@ alias usb:v067Bp2303d*dc*dsc*dp*ic*isc*ip* pl2303
 alias i2c:hv_keypad hv2605
 alias i2c:ft5x_ts ft5x_ts
 alias i2c:zt8031 zt8031
+alias i2c:bma250 bma250
 alias sound-service-?-0 snd_mixer_oss
 alias sound-service-?-12 snd_pcm_oss
 alias sound-service-?-3 snd_pcm_oss

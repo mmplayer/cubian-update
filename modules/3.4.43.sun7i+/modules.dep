@@ -32,10 +32,16 @@ kernel/drivers/input/touchscreen/goodix_touch.ko:
 kernel/drivers/input/touchscreen/gt811_ts.ko:
 kernel/drivers/input/touchscreen/gt818_ts.ko:
 kernel/drivers/input/touchscreen/zt8031.ko:
+kernel/drivers/gsensor/mecs.ko:
+kernel/drivers/gsensor/mxc622x.ko:
+kernel/drivers/gsensor/bma250.ko:
 kernel/drivers/i2c/algos/i2c-algo-bit.ko:
 kernel/drivers/media/common/tuners/tea5761.ko:
 kernel/drivers/media/common/tuners/xc4000.ko:
 kernel/drivers/media/common/tuners/mt2063.ko:
+kernel/drivers/media/video/gspca/gspca_main.ko:
+kernel/drivers/media/video/sunxi/sunxi_cedar_mod.ko:
+kernel/drivers/media/video/sunxi/sunxi_avs.ko:
 kernel/drivers/cpufreq/cpufreq_stats.ko:
 kernel/sound/core/oss/snd-mixer-oss.ko:
 kernel/sound/core/oss/snd-pcm-oss.ko: kernel/sound/core/oss/snd-mixer-oss.ko
