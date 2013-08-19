@@ -73,6 +73,7 @@ kernel/block/cfq-iosched.ko
 kernel/drivers/ata/libata.ko
 kernel/drivers/ata/ahci_platform.ko
 kernel/drivers/ata/libahci.ko
+kernel/drivers/ata/sw_ahci_platform.ko
 kernel/drivers/base/firmware_class.ko
 kernel/drivers/base/regmap/regmap-i2c.ko
 kernel/drivers/base/regmap/regmap-spi.ko

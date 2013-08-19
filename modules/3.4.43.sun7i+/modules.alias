@@ -2,7 +2,6 @@
 alias platform:mali_drm mali_drm
 alias usb:v17E9p*d*dc*dsc*dp*icFFisc00ip00* udl
 alias i2c:wl1273-fm wl1273_core
-alias platform:sw_ahci sw_ahci_platform
 alias usb:v7392p7822d*dc*dsc*dp*ic*isc*ip* rtl8192cu
 alias usb:v20F4p624Dd*dc*dsc*dp*ic*isc*ip* rtl8192cu
 alias usb:v2019pAB2Bd*dc*dsc*dp*ic*isc*ip* rtl8192cu

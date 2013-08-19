@@ -17,7 +17,6 @@ kernel/drivers/misc/pwm-sunxi.ko
 kernel/drivers/mfd/mfd-core.ko
 kernel/drivers/mfd/wl1273-core.ko
 kernel/drivers/scsi/scsi_wait_scan.ko
-kernel/drivers/ata/sw_ahci_platform.ko
 kernel/drivers/net/wireless/rtlwifi/rtlwifi.ko
 kernel/drivers/net/wireless/rtlwifi/rtl8192c/rtl8192c-common.ko
 kernel/drivers/net/wireless/rtlwifi/rtl8192cu/rtl8192cu.ko
