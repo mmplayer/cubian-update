@@ -293,6 +293,15 @@ kernel/sound/core/snd-timer.ko
 kernel/sound/core/snd-pcm.ko
 kernel/sound/core/snd-page-alloc.ko
 kernel/sound/soc/snd-soc-core.ko
+kernel/sound/soc/sunxi/sunxi-codec.ko
+kernel/sound/soc/sunxi/hdmiaudio/sunxi-hdmiaudio.ko
+kernel/sound/soc/sunxi/hdmiaudio/sunxi-hdmipcm.ko
+kernel/sound/soc/sunxi/hdmiaudio/sndhdmi.ko
+kernel/sound/soc/sunxi/hdmiaudio/sunxi-sndhdmi.ko
+kernel/sound/soc/sunxi/spdif/sunxi_spdif.ko
+kernel/sound/soc/sunxi/spdif/sunxi_spdma.ko
+kernel/sound/soc/sunxi/spdif/sndspdif.ko
+kernel/sound/soc/sunxi/spdif/sunxi_sndspdif.ko
 kernel/net/dns_resolver/dns_resolver.ko
 kernel/net/ipv4/ipip.ko
 kernel/net/ipv4/ah4.ko
