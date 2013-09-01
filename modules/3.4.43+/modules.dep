@@ -1,5 +1,7 @@
 kernel/fs/exportfs/exportfs.ko:
 kernel/fs/nfsd/nfsd.ko: kernel/fs/exportfs/exportfs.ko
+kernel/crypto/sha256_generic.ko:
+kernel/crypto/sha512_generic.ko:
 kernel/crypto/pcbc.ko:
 kernel/crypto/fcrypt.ko:
 kernel/drivers/gpio/gpio-sunxi.ko:
