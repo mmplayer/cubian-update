@@ -89,6 +89,7 @@ alias symbol:videobuf_querybuf videobuf_core
 alias symbol:nf_ct_l3proto_module_put nf_conntrack
 alias symbol:drm_i2c_encoder_init drm
 alias symbol:drm_fb_helper_fini drm_kms_helper
+alias symbol:nfs4_acl_write_who nfsd
 alias symbol:snd_midi_event_reset_encode snd_seq_midi_event
 alias symbol:irias_add_string_attrib irda
 alias symbol:drm_idlelock_release drm
@@ -175,6 +176,7 @@ alias symbol:ip6t_do_table ip6_tables
 alias symbol:nf_ct_expect_init nf_conntrack
 alias symbol:soc_camera_xlate_by_fourcc soc_camera
 alias symbol:drm_mode_config_init drm
+alias symbol:nfs4_acl_get_whotype nfsd
 alias symbol:nf_conntrack_alter_reply nf_conntrack
 alias symbol:soc_mbus_find_fmtdesc soc_mediabus
 alias symbol:cx231xx_send_gpio_cmd cx231xx
@@ -237,6 +239,7 @@ alias symbol:ircomm_data_request ircomm
 alias symbol:wimax_report_rfkill_sw wimax
 alias symbol:cx231xx_unregister_extension cx231xx
 alias symbol:xt_table_unlock x_tables
+alias symbol:nfs4_acl_new nfsd
 alias symbol:xfrm6_tunnel_spi_lookup xfrm6_tunnel
 alias symbol:cx231xx_dev_init cx231xx
 alias symbol:print_ssid lib80211
@@ -460,6 +463,7 @@ alias symbol:drm_pci_init drm
 alias symbol:drm_pci_exit drm
 alias symbol:gspca_dev_probe2 gspca_main
 alias symbol:videobuf_read_start videobuf_core
+alias symbol:exportfs_encode_fh exportfs
 alias symbol:soc_mbus_samples_per_pixel soc_mediabus
 alias symbol:ath9k_hw_init_global_settings ath9k_hw
 alias symbol:drm_unplug_dev drm
@@ -608,6 +612,7 @@ alias symbol:btmrvl_send_module_cfg_cmd btmrvl
 alias symbol:i2c_bit_algo i2c_algo_bit
 alias symbol:nf_conntrack_l4proto_udp4 nf_conntrack
 alias symbol:ath9k_hw_btcoex_init_scheme ath9k_hw
+alias symbol:nfs4_acl_nfsv4_to_posix nfsd
 alias symbol:ip_set_get_byname ip_set
 alias symbol:ath9k_hw_gen_timer_stop ath9k_hw
 alias symbol:drm_ati_pcigart_init drm
@@ -744,6 +749,7 @@ alias symbol:nf_nat_snmp_hook nf_conntrack_snmp
 alias symbol:get_h225_addr nf_conntrack_h323
 alias symbol:irttp_open_tsap irda
 alias symbol:irlmp_open_lsap irda
+alias symbol:exportfs_decode_fh exportfs
 alias symbol:llc_sap_open llc
 alias symbol:drm_vblank_put drm
 alias symbol:sirdev_raw_read sir_dev
@@ -934,6 +940,7 @@ alias symbol:em28xx_unregister_extension em28xx
 alias symbol:xc2028_attach tuner_xc2028
 alias symbol:ip_set_nfnl_get_byindex ip_set
 alias symbol:nf_nat_set_seq_adjust nf_nat
+alias symbol:nfs4_acl_posix_to_nfsv4 nfsd
 alias symbol:snd_seq_autoload_lock snd_seq_device
 alias symbol:ath9k_hw_cfg_gpio_input ath9k_hw
 alias symbol:unregister_ip_vs_app ip_vs

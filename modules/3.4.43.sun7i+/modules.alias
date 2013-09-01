@@ -1,4 +1,8 @@
 # Aliases extracted from modules themselves.
+alias sha256 sha256_generic
+alias sha224 sha256_generic
+alias sha512 sha512_generic
+alias sha384 sha512_generic
 alias platform:mali_drm mali_drm
 alias usb:v17E9p*d*dc*dsc*dp*icFFisc00ip00* udl
 alias i2c:wl1273-fm wl1273_core
@@ -213,6 +217,7 @@ alias sdio:c*v02D0d4329* bcm4330
 alias sdio:c*v02D0d0493* bcm4330
 alias sdio:c*v02D0d0492* bcm4330
 alias sdio:c*v02D0d0000* bcm4330
+alias rtnl-link-bond bonding
 alias usb:v*p*d*dc*dsc*dp*icFEisc02ip* irda_usb
 alias usb:v066Fp4116d*dc*dsc*dp*ic*isc*ip* irda_usb
 alias usb:v066Fp4220d*dc*dsc*dp*ic*isc*ip* irda_usb
